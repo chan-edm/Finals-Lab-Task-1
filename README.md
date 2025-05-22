@@ -7,7 +7,7 @@
    - Define `employee_name` as a VARCHAR (up to 255 characters), and make it not null.
    - Define `manager_id` as an integer, which will be a foreign key referencing `employee_id` from the same table.
 # Screenshot and Structure sample:
-[image](https://github.com/chan-edm/README/blob/faae0d9b83620746282ee5a548409e3018306888/Images/final%201%20employee%20department.png)
+[Image](https://github.com/chan-edm/README/blob/faae0d9b83620746282ee5a548409e3018306888/Images/final%201%20employee%20department.png)
 [image](https://github.com/chan-edm/README/blob/faae0d9b83620746282ee5a548409e3018306888/Images/final%201%20employee%20department%20sample.png)
 
 2. Create the `departments` table:
